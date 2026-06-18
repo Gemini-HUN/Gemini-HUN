@@ -1,4 +1,4 @@
-# Spore Mod Projects by [Gemini-HUN]
+# Spore Mod Projects by [Gemini-HUN](https://github.com/Gemini-HUN)
 
 ## Check out my Spore Mods!
 If you are looking for translations, script expansions, or unique gameplay shifts, check these out:
