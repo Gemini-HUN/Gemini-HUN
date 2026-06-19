@@ -1,7 +1,7 @@
 # Spore Restoration Projects by [Gemini-HUN](https://github.com/Gemini-HUN)
 
 ## Check out my Spore Mods!
-If you are looking for translations, script expansions, or unique gameplay shifts, check these out:
+If you are looking for restoration projects, localization fixes, script expansions, or unique gameplay tweaks, check these out:
 
 * **Dr. Pepper DLC All-Locale Translation** – Fully translated the classic Dr. Pepper DLC parts into all supported languages of the game.
 * **Language & Localization Fixes** – Separate, dedicated language fixes to clean up in-game text and translations.
