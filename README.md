@@ -11,4 +11,4 @@ If you are looking for restoration projects, localization fixes, script expansio
 
 ---
 
-### Check my mods here: [My Spore Mod's Catalog](https://github.com/Gemini-HUN/spore-mod-catalog)
+### Check my mods here: [My Spore Mods Catalog](https://github.com/Gemini-HUN/spore-mod-catalog)
