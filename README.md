@@ -1,5 +1,8 @@
 # Spore Restoration Projects by [Gemini-HUN](https://github.com/Gemini-HUN)
 
+## How to install mods?
+I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) to install my and **any other** mods, read the description!
+
 ## Check out my Spore Mods!
 If you are looking for restoration projects, localization fixes, script expansions, or unique gameplay tweaks, check these out:
 
