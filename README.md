@@ -14,6 +14,10 @@ Here you can find mods that modify or expand Spore's gameplay mechanics, includi
 
 Here you can find bug fixes, compatibility improvements, and corrections for issues found in the original game or existing content.
 
+### My Spore Archive Mods
+
+Here you can find archived Spore projects that are preserved, documented, and maintained for accessibility and future reference.
+
 
 
 ---
