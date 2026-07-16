@@ -1,4 +1,4 @@
-# Spore Restoration Projects by [Gemini-HUN](https://github.com/Gemini-HUN)
+# Spore Mods by [Gemini-HUN](https://github.com/Gemini-HUN)
 
 ## How to install mods?
 I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
