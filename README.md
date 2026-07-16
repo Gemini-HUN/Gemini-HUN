@@ -18,7 +18,9 @@ Here you can find bug fixes, compatibility improvements, and corrections for iss
 
 Here you can find archived Spore projects that are preserved, documented, and maintained for accessibility and future reference.
 
+### My Spore Mod Contributions
 
+Here you can find projects by other creators that I have contributed to.
 
 ---
 
