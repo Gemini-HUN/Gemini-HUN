@@ -6,6 +6,11 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 ## Check out my Spore Mods!
 If you are looking for restoration projects, localization fixes, script expansions, or unique gameplay tweaks, check these out:
 
+* Gameplay
+* Fix
+* Archive
+* Contribution
+
 ### My Spore Gameplay Mods
 
 Here you can find mods that modify or expand Spore's gameplay mechanics, including new gameplay features, balance changes, and unique gameplay experiences.
