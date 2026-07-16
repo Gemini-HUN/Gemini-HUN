@@ -6,9 +6,9 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 ## Check out my Spore Mods!
 If you are looking for gameplay modifications, fixes, archived projects, or community contributions, check these out:
 
-* Gameplay
-* Fix
-* Archive
+* Gameplay Mods
+* Fix Mods
+* Archive Mods
 * Contributions
 
 ### My Spore Gameplay Mods
