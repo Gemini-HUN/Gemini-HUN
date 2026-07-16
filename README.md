@@ -10,6 +10,10 @@ If you are looking for restoration projects, localization fixes, script expansio
 
 Here you can find mods that modify or expand Spore's gameplay mechanics, including new gameplay features, balance changes, and unique gameplay experiences.
 
+### My Spore Fix Mods
+
+Here you can find bug fixes, compatibility improvements, and corrections for issues found in the original game or existing content.
+
 
 
 ---
