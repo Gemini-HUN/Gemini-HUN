@@ -1,7 +1,7 @@
 # Spore Mods by [Gemini-HUN](https://github.com/Gemini-HUN)
 
 ## How to install mods?
-I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
+I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing Spore mods. Please read the installation instructions first.
 
 ## Check out my Spore Mods!
 If you are looking for gameplay modifications, prototype restorations, fixes, archived projects, or community contributions, check these out:
