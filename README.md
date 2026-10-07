@@ -4,7 +4,7 @@
 I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing Spore mods. Please read the installation instructions first.
 
 ## Check out my Spore Mods!
-If you are looking for gameplay modifications, prototype restorations, fixes, archived projects, or community contributions, check these out:
+If you are looking for gameplay modifications, prototype restorations, fixes, support mods, archived projects, or community contributions, check these out:
 
 * Gameplay Mods
 * 2008 Prototype Restoration Mods
