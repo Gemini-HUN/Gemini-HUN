@@ -9,6 +9,7 @@ If you are looking for gameplay modifications, prototype restorations, fixes, ar
 * Gameplay Mods
 * 2008 Prototype Restoration Mods
 * Fix Mods
+* Support Mods
 * Archive Mods
 * Contributions
 
@@ -20,6 +21,9 @@ Here you can find mods that modify or expand or replace Spore's gameplay mechani
 
 ### My Spore Fix Mods
 Here you can find bug fixes, compatibility improvements, and corrections for issues found in the original game or existing content.
+
+### Support Mods
+Here you can find
 
 ### My Spore Archive Mods
 Here you can find archived Spore projects that are preserved, documented, and maintained for accessibility and future reference.
