@@ -22,8 +22,8 @@ Here you can find mods that modify or expand or replace Spore's gameplay mechani
 ### My Spore Fix Mods
 Here you can find bug fixes, compatibility improvements, and corrections for issues found in the original game or existing content.
 
-### Support Mods
-Here you can find technical tweaks, and shared resources designed to improve compatibility and support the functionality of other mods.
+### My Spore Support Mods
+Here you can find technical tweaks and shared resources designed to improve compatibility and support the functionality of other mods.
 
 ### My Spore Archive Mods
 Here you can find archived Spore projects that are preserved, documented, and maintained for accessibility and future reference.
